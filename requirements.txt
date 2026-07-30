@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+chromadb
+fastapi
+uvicorn
+streamlit
+tavily-python
+redis
+pydantic
+python-dotenv
